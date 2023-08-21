@@ -27,4 +27,4 @@ My development arsenal includes not only Rails but also tools like Tailwind and 
 
 ### Usage Rate
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username=rubyongainz
+[![Your Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rubyongainz)]
