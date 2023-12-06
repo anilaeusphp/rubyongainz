@@ -2,6 +2,17 @@
 
 ### Skills & Technologies
 
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-%23345999.svg?&style=for-the-badge&logo=supabase&logoColor=white)
+![Appwrite](https://img.shields.io/badge/Appwrite-%23000000.svg?&style=for-the-badge&logo=appwrite&logoColor=white)
+![Shadertoy](https://img.shields.io/badge/Shadertoy-%23C36241.svg?&style=for-the-badge&logo=shadertoy&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?&style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%236DB33F.svg?&style=for-the-badge&logoColor=white)
+![Pusher](https://img.shields.io/badge/Pusher-%230086FE.svg?&style=for-the-badge&logo=pusher&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
